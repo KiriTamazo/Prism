@@ -453,7 +453,7 @@ body.dark .features-card:hover .card-title,
   margin: auto;
 }
 .price-card:hover {
-  box-shadow: 0 0rem 1rem rgb(0 0 0 / 15%) !important;
+  box-shadow: 0 0rem 1rem var(--shadow) !important;
   transform: translate(0, -10px) !important;
 }
 .price-card:hover .fa-circle-check {
